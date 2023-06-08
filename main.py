@@ -80,6 +80,8 @@
 # print(check_list([1,2,3,4,5,6]))
 
 
+#Another day
+
 #Roundoff ko lagi
 # s1 = 'Math'
 # s2 = 'Science'
@@ -117,11 +119,13 @@
 
 
 #TUPLE used for immutable data
+#Tuple vitra ni list banauna milxa jo chai mutable hunxa tara tuple cahi immutable hunxa
 t1 = (['apple', 'banana', 'orange'],'Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 33)
 print(type(t1))
 print(t1)
 print(len(t1))
 print(t1[0:3])
+print(t1[0])
 t1[0][0] = 'mango'
 print(t1)
 print(t1[0][1])
