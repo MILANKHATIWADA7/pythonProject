@@ -13,8 +13,8 @@
 # print(t1[0][2])
 
 
-t1 = (['apple', 'banana', 'orange'],'Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 33)
-print(type(t1))
-
-t1[0][2] = 'guava'
-print(t1)
+# t1 = (['apple', 'banana', 'orange'],'Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 33)
+# print(type(t1))
+#
+# t1[0][2] = 'guava'
+# print(t1)

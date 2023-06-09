@@ -103,7 +103,7 @@
 # list1.sort(reverse=True)
 # print(list1)
 
-#NESTED LIST
+# NESTED LIST
 
 # l1= [['ram', 22, 75],
 #      ['shyam', 23, 76],
@@ -127,7 +127,18 @@
 # print(l1)
 
 
-comp_location = r"c:\\users\\admin\\milan" #To print the raw value
-print(comp_location)
+# comp_location = r"c:\\users\\admin\\milan"  # To print the raw value
+# print(comp_location)
 
-
+# l1 = []
+# n = int(input("kati ota number rakhnay?"))
+# for i in range(n):
+#     new_list = []
+#     name = input("Enter name: ")
+#     age = input("Enter your age:")
+#     mark = input("Enter your mark: ")
+#     new_list.append(name)
+#     new_list.append(age)
+#     new_list.append(mark)
+#     l1.append(new_list)
+# print(l1)
